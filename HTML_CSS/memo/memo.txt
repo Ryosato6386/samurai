@@ -2,7 +2,7 @@
 「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」
 「Note」に説明、「repo」のみのチェックで充分、「Generate token」ボタンで作成
     【現在のトークン】
-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
+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
 
 
 ＜HTML/CSS＞
@@ -52,10 +52,5 @@ display	要素の表示形式を指定する
 セレクタ指定の場所に「#」「.」をつけてセレクタ指定する
 「id」は要素を一意に識別するために使われ、
 「class」は複数の要素に共通の特性やスタイルを適用するために使う
-
-「,」で複数のセレクタ指定ができる
-p, #id, class. {
-  color: red;
-}
 
 
