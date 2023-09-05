@@ -1,0 +1,6 @@
+package Javabasic;
+
+public class test {
+	System.out.println("HELLO");
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/sryo/samurai/.metadata/.plugins/org.eclipse.jdt.core
+732477768.index
+1865797976.index
+3481459643.index
