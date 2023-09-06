@@ -31,3 +31,4 @@ mergeとフォルスを同時に行う（コンフリクトが起きやすいの
 
 
 git fetch、git merge、git pullの違い
+アップストリームブランチとは
