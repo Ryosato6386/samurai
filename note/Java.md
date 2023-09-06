@@ -1,6 +1,5 @@
-#　JavaBasic
-【トークン】<br>
-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
+# JavaBasic
+
 ## クラスの構成要素  
 クラス、コンストラクタ、メソッド<br>
 フィールド（別クラス）
