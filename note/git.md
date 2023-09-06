@@ -4,7 +4,7 @@
 「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」<br>
 「Note」に説明、「repo」のみのチェックで充分、「Generate token」ボタンクリックで作成<br>
 **【現在のトークン】**<br>
-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
+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
 
 ## 主に使用するコマンド
 
