@@ -1,5 +1,11 @@
 # gitについて
 
+## ＜githubアクセストークン作成＞<br>
+「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」
+「Note」に説明、「repo」のみのチェックで充分、「Generate token」ボタンで作成<br>
+**【現在のトークン】**<br>
+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
+
 ## 主に使用するコマンド
 
 **git clone**<br>
@@ -22,3 +28,6 @@ mergeとフォルスを同時に行う（コンフリクトが起きやすいの
 
 **mkdir dirName**<br>
 ディレクトリを作成する
+
+
+git fetch、git merge、git pullの違い
