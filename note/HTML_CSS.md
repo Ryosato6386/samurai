@@ -1,11 +1,13 @@
 ## ＜HTML/CSS＞
 
 01〜05
-`<meta charset=“文字のコード（UTF-8）”>`
-`<title>ページのタイトル</title>`
-`<meta name="description" content=“検索エンジンでのページの説明”>`
-`<img src=“画像のパス”>`
-`<a href=“リンク先のコンテンツ”>リンクのボタン要素</a>`
+```
+<meta charset=“文字のコード（UTF-8）”>
+<title>ページのタイトル</title>
+<meta name="description" content=“検索エンジンでのページの説明”>
+<img src=“画像のパス”>
+<a href=“リンク先のコンテンツ”>リンクのボタン要素</a>
+```
 
 06〜08
 articleタグ、sectionタグは各記事を区切りでまとめることが出来る
