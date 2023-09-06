@@ -1,10 +1,10 @@
 # gitについて
 
 ## ＜githubアクセストークン作成＞<br>
-「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」
-「Note」に説明、「repo」のみのチェックで充分、「Generate token」ボタンで作成<br>
+「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」<br>
+「Note」に説明、「repo」のみのチェックで充分、「Generate token」ボタンクリックで作成<br>
 **【現在のトークン】**<br>
-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
+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
 
 ## 主に使用するコマンド
 
