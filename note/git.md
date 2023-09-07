@@ -8,27 +8,53 @@ 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
 
 ## 主に使用するコマンド
 
-**git clone**<br>
+`git clone`
 リモートリポジトリのデータをローカル環境に持ってくる
 
-**git add .**<br>
+### githubに保存する
+`git add .`
 編集内容を追加
 
-**git commit -m"coment"**<br>
+`git commit -m"coment"`
 addで追加したものを保存する
 
-**git push URL**<br>
+`git push URL`
 commitでローカルに保存したものをリモートリポジトリに保存する
 
-**git pull URL**<br>
-mergeとフォルスを同時に行う（コンフリクトが起きやすいので注意）
+### リモートリポジトリ→ローカルにデータを落とす
+**【手順】**
+1. fetch
+2. marge
+**or**
+1. push
 
-**git status**<br>
+`git fetch URL`
+`git fetch origin master`
+リモートの「master」ブランチ → ローカルの「origin/master」ブランチ
+
+`git merge URL`
+`git merge origin/master`
+ローカルの「origin/master」ブランチ → ローカルの「master」ブランチ
+
+`git pull URL`
+`git pull origin master`
+mergeとfetchを同時に行う（コンフリクトが起きやすいので注意）
+
+### 【補足】
+- **origin**とは、githubでデフォルトとして設定されたブランチのことを指す
+- URLとブランチを指定する違い
+    - URL：そのURLのリポジトリを指したいとき
+    - ブランチ：ブランチ単位で指定したいとき（通常）
+
+
+
+### その他
+`git status`
 ローカルリポジトリの状態の確認
 
-**mkdir dirName**<br>
+`mkdir dirName`
 ディレクトリを作成する
 
 
-git fetch、git merge、git pullの違い
+
 アップストリームブランチとは
