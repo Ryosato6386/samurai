@@ -4,7 +4,7 @@
 「Settings」→「Developer settings」→「Personal access tokens」→「Generate new token」<br>
 「Note」に説明、「repo」がつくものをチェック、「Generate token」ボタンクリックで作成<br>
 **【現在のトークン】**<br>
-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
+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
 
 ## 主に使用するコマンド
 
@@ -22,10 +22,11 @@ addで追加したものを保存する
 commitでローカルに保存したものをリモートリポジトリに保存する
 
 ### リモートリポジトリ→ローカルにデータを落とす
-**【手順】**
+**【方法】**
 1. fetch → marge<br>
 **or**
 1. push
+
 
 `git fetch URL`<br>
 `git fetch origin master`<br>
@@ -39,7 +40,7 @@ commitでローカルに保存したものをリモートリポジトリに保�
 `git pull origin master`<br>
 mergeとfetchを同時に行う（コンフリクトが起きやすいので注意）
 
-### 【補足】
+#### 【補足】
 - **origin**とは、githubでデフォルトとして設定されたブランチのことを指す
 - URLとブランチを指定する違い
     - URL：そのURLのリポジトリを指したいとき
